@@ -1,2 +1,2 @@
-# Shooter-game-app
- Hey i created a shooter game 
+# tic-tac-toe
+ Hey i am going to create a tic tac toe gaame using html,css,js
